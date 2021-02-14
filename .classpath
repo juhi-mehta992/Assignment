@@ -14,5 +14,12 @@
 	<classpathentry kind="lib" path="C:/Selenium/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="C:/Selenium/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/opencsv-5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/commons-text-1.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
