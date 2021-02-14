@@ -31,7 +31,7 @@ public class Marathishadi {
 		
 		  while((cell=reader.readNext())!= null) 
 		  { 
-			  for(int i=0;i<1;i++) 
+			  for(int i=0;i<cell.length-1;i++) 
 			  { 
 				  String email= cell[i]; 
 				  String pwd = cell[i+1];	  		  
